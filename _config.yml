@@ -53,6 +53,8 @@ location:
   - line: Seattle, Washington
 
 # Credits content
+credits: 'Freelancer is open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
+Cyber icons created by <a href="https://www.canva.com" title="cybersecurity icons">Canva - Cybersecurity Icons</a>.'
 
 # Build settings
 markdown: kramdown
