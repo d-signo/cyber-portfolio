@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 title: TryHackMe Journal
-img: TryHackMe Journal.png
+img: TryHackMeJournalFinal.png
 alt: image-alt
 
 # Add the link to your journal below
