@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-title: SQL Query
+title: Linux Query
 img: SQLFINAL.png
 alt: image-alt
 
