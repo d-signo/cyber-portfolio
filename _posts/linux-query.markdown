@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 7
 title: Linux Query
 img: SQLFINAL.png
 alt: image-alt
