@@ -6,8 +6,8 @@ img: CV.png
 alt: image-alt
 
 # Add the link to your journal below
-project-url:
+project-url: https://docs.google.com/document/d/1JGWqB8je8HCL0a20hZBnJaQLBOD0HPPpM8fVS-wjdP4/edit?tab=t.0
 
 # Once you've completed your project, update the 'description' below to this one: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
-description: Coming Soon! <br></br>
+description: Cybersecurity professional leveraging 10+ years of operations and administrative management experience with hands-on training in network security, Linux, and risk analysis. <br></br>
 ---
