@@ -9,5 +9,5 @@ alt: image-alt
 project-url: https://docs.google.com/document/d/1TwYSrugG117XBd1txRCvwNxSS4qvzxxRPxm5DEkzau4/edit?tab=t.0
 
 # Once you've completed your project, update the 'description' below to this one: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
-description: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
+description: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.<br></br>
 ---
